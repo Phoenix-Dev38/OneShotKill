@@ -1,0 +1,7 @@
+name: OneShotKill
+version: ${project.version}
+main: com.github.phoenix_dev38.osk.OneShotKill
+api-version: 1.16
+commands:
+  oneshotkill:
+    aliases: [ osk ]
